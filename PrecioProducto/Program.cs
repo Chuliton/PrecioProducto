@@ -14,12 +14,16 @@
                 if (precio <= 0)
                 Console.WriteLine("El precio de debe ser mayor a 0");
             }
-            Console.WriteLine("Ingrese el medio de pago (Efectivo o Tarjeta)");
+            Console.WriteLine("Ingrese el medio de pago (Efectivo|Tarjeta|Transferencia)");
             string formaPago = Console.ReadLine().ToLower();
             if (formaPago == "tarjeta")
             {
                 Console.WriteLine("Ingrese el numero de cuenta");
                 int numCuenta = int.Parse(Console.ReadLine());
+            }
+            if (formaPago == "trasferencia")
+            {
+                Console.WriteLine("Hizo un pago con tranferencia bancaria");
             }
             Console.WriteLine("Transaccion exitosa");
         }
