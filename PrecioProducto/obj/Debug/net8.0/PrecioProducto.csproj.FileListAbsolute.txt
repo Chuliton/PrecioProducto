@@ -1,0 +1,14 @@
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\bin\Debug\net8.0\PrecioProducto.exe
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\bin\Debug\net8.0\PrecioProducto.deps.json
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\bin\Debug\net8.0\PrecioProducto.runtimeconfig.json
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\bin\Debug\net8.0\PrecioProducto.dll
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\bin\Debug\net8.0\PrecioProducto.pdb
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.AssemblyInfoInputs.cache
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.AssemblyInfo.cs
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.csproj.CoreCompileInputs.cache
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.dll
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\refint\PrecioProducto.dll
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.pdb
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\PrecioProducto.genruntimeconfig.cache
+C:\Users\Romina\Desktop\C#-Tareas\Ejercicios2\PrecioProducto\PrecioProducto\obj\Debug\net8.0\ref\PrecioProducto.dll
